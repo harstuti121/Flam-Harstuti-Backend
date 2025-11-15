@@ -1,6 +1,10 @@
-﻿# QueueCTL – Background Job Queue System
-
 # 🧰 QueueCTL - Background Job Queue System
+
+
+## 🎥 Demo Video  
+Watch a complete CLI demo showing enqueueing, worker processing, retries, and DLQ.
+
+🔗 Demo Link: https://drive.google.com/file/d/1vfLtcbVPtJg5Nd2Ca55VYxVIrmfkyHEx/view?usp=drive_link
 
 ## 📌 Overview
 QueueCTL is a CLI-based background job queue system built using Node.js.  
@@ -115,3 +119,4 @@ Each job stored looks like this:
 ✔ Backoff logic
 
 ✔ Clean modular code
+
